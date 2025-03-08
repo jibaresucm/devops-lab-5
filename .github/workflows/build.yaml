@@ -1,4 +1,5 @@
 name: Build workflow
+
 on: [push, pull_request]
   jobs:
     build:
